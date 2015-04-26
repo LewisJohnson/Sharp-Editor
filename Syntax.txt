@@ -1,0 +1,16 @@
+﻿---VALUE TYPES---    ---REFRENCE TYPES---
+bool                 class
+byte                 interface
+char                 delegate
+decimal              dynamic
+double               object
+enum                 string
+float                
+int                  
+long
+sbyte
+short
+struct
+uint
+ulong
+ushort
